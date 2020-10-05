@@ -1,0 +1,17 @@
+10/5 데이콘 회의
+
+아리랑 위성영상 AI 객체 검출 경진대회
+
+1. 코드 공유 란의 게시글 하나씩 공부 + 돌려보기
+  유림 : DOTA_devkit을 활용한 바운딩 박스 도식
+  규민: 이미지에 기록된 객체들의 분포를 확인해보자! / DOTA data format to COCO data format(수정)
+  관석: DOTA 좌표 표기법 설명(feat. submission 파일 만들어서 제출 해보자!) / 
+  DOTA_devkit 설치 가이드 for Arirang Dataset (+ 데이터 출력)
+
+2. pre-trained weight 사용 - 사용할 만한 것들 살펴보기
+  유림: faster-rcnn
+  규민: yolo
+  관석: mask-rcnn
+
+Next meeting
+금 15시
